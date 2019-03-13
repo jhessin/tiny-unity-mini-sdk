@@ -6,6 +6,8 @@ Will update very soon with some samples for using the components .
 
 ## What things are included
 - Complete structure for initialization , start screen , game screen , game over screen
+- Image Streaming
+- Cross Communication with iOS WKWebKit , Android WebView & normal chrome/mozilla browsers on mac/windows
 - Camera
     - Simple Camera Follow
     - Fit ScreenLayout (from unity)
